@@ -1,3 +1,3 @@
-# Hanemono
+# bonobo
 
-`Hanemono` is a CSS framework made by [Tokufumi](https://twitter.com/Toqfumi).
+`bonobo` is a CSS framework made by [Toqfumi](https://twitter.com/Toqfumi).
